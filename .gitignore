@@ -8,3 +8,12 @@ ebin/*.beam
 rel/example_project
 .concrete/DEV_MODE
 .rebar
+/ebin/
+/_build/
+/.project
+/.settings
+/src/xxmerl_sax_parser_latin1.erl
+/src/xxmerl_sax_parser_list.erl
+/src/xxmerl_sax_parser_utf16be.erl
+/src/xxmerl_sax_parser_utf16le.erl
+/src/xxmerl_sax_parser_utf8.erl

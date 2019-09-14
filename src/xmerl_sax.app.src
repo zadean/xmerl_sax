@@ -1,0 +1,10 @@
+{application, xmerl_sax,
+ [
+  {description, "xmerl SAX Parser"},
+  {vsn, "1.3.21"},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, [ ]}
+ ]}.
